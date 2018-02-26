@@ -13,3 +13,4 @@ Make sure that the wallpaper has the setting of:
 
 Note:
 - Loggin in with local account (e.g. quickprint acc, pcadminxxx, etc.) instead of domain account (e.g. nusstu\xxx, nusstf\xxx) will result in no wallpaper due to different credentials
+- **DO NOT TURN OFF OR LOG OFF OR UNPLUG LAN CABLE OF YI-1-51K0T92.** There is also a running programme to prevent the pc from sleeping or logging off, **DO NOT CLOSE IT.** Keyboard and mouse are unplugged to prevent any accidents, please unplug them again after you are done with your businees with the PC.  
